@@ -9,7 +9,7 @@ tags = ["C++", "Design Patterns", "Metropolis-Hastings", "CDT", "CGAL"]
 [extra]
 math = true
 math_auto_render = true
-toc = true
+image = "lakeside.jpeg"
 +++
 
 [Causal Dynamical Triangulations] computes the path integral of the
